@@ -1,0 +1,22 @@
+# 依赖
+node_modules/
+dist/
+unpackage/
+
+# 构建产物
+*.min.js
+
+# uni-app 相关
+/wxcomponents/
+/mycomponents/
+
+# 平台相关
+platforms/
+
+# IDE
+.vscode/
+.idea/
+
+# 其他
+*.log
+.DS_Store

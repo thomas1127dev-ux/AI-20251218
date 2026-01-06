@@ -1,0 +1,12 @@
+{
+    "version" : "1.0",
+    "configurations" : [
+        {
+            "customPlaygroundType" : "device",
+            "localRepoPath" : "C:/Users/GIG/Desktop/GIG-X",
+            "packageName" : "com.unionpay.tsmservice",
+            "playground" : "standard",
+            "type" : "uni-app:app-android"
+        }
+    ]
+}
